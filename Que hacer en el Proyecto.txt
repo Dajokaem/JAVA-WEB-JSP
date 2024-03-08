@@ -1,0 +1,3 @@
+1) hacer posible que el odontologo tome los turnos que quiera
+2) Hacer que solo los odontologos puedan ver sus turnos asignados
+y que los secretarios puedan consultaros
